@@ -1,4 +1,0 @@
-rubika
-Pillow==7.2.0
-pytz==2020.1
-rsa==4.6
